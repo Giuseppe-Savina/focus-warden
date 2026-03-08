@@ -1,0 +1,12 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Cartelle di sviluppo (se userai Node in futuro)
+node_modules/
+dist/
+build/
+
+# File di configurazione locale
+.env
+.vscode/
