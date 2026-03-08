@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body class="popup-body">
+   <div class="container">
+      <div class="header-flex">
+         <h1>🛡️ Focus Warden</h1>
+         <label class="switch">
+            <input type="checkbox" id="masterToggle">
+            <span class="slider"></span>
+         </label>
+      </div>
+      <p class="subtitle" id="statusText">Protocol: ACTIVE</p>
+
+      <div class="quick-pick">
+         <button class="chip" data-url="facebook.com">FB</button>
+         <button class="chip" data-url="youtube.com">YT</button>
+         <button class="chip" data-url="instagram.com">IG</button>
+         <button class="chip" data-url="tiktok.com">TK</button>
+      </div>
+
+      <div class="input-group">
+         <input type="text" id="siteInput" placeholder="Add domain......" spellcheck="false">
+         <button id="addBtn">Block</button>
+      </div>
+
+      <ul id="siteList"></ul>
+      <button id="clearBtn" class="secondary">Reset blocklist</button>
+   </div>
+   <script src="popup.js"></script>
+</body>
+
+</html>
