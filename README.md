@@ -2,7 +2,7 @@
 **A high-contrast, productivity-first Chrome Extension designed to reclaim your mental space**
 
 <p align="center">
-<img src="assets/image/mockup-display.jpg" alt="Focus Warden Mockup" width="900">
+<img src="assets/image/mockup-display.png" alt="Focus Warden Mockup" width="900">
 </p>
 
 Focus Warden is a productivity tool built with **Manifest V3** that allows users to block distracting websites with a high-performance filtering engine.
@@ -28,7 +28,7 @@ Focus Warden is a productivity tool built with **Manifest V3** that allows users
 
 | Feature: Extension UI | Feature: Mindset Check (Blocked Page) |
 | :---: | :---: |
-| <img src="assets/image/extension-ui.jpg" width="400"> | <img src="assets/image/warden-gate.jpg" width="400"> |
+| <img src="assets/image/extension-ui.png" width="400"> | <img src="assets/image/warden-gate.png" width="400"> |
 
 ## ⚙️ Installation
 1. Clone this repository.
